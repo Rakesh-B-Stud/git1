@@ -1,1 +1,2 @@
 hi its my first git clone.
+try learning git is good
